@@ -28,10 +28,11 @@ You can contribute to our projects in many ways besides Pull Requests to our pro
 
 **Out of repo**: Some contributions are about integrating our tools with other tools. Not always these integrations belong in the main repository of the project, sometimes it makes more sense to create another repository for these integration projects. For example: Integrating Trivy with a CI system, or integrating the Starboard report with some dashboard tool.
 
-**Non-code**: Sometimes Open Source contributions are not about code at all. For example, you could make a video explaining our tools, or write an article about how you used it, which creates value and helps the ecosystem just as much as writing code.
-
-examples:
-1.
+**Non-code**: Sometimes Open Source contributions are not about code at all. For example, you could make a video explaining our tools, or write an article about how you used it, which creates value and helps the ecosystem just as much as writing code. The content you create can be any of the following categories:
+1. Introduction - present the project for new comers.
+2. Review - tell people what you think about the project and why you like it.
+3. Tutorial - technically explain how to complete a certain task.
+4. Case study - present how you (or the company you work for) have used this tool, or are planning to use it.
 
 ## Contribution workflow
 
