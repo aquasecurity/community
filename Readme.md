@@ -40,7 +40,7 @@ You can contribute to our projects in many ways besides Pull Requests to our pro
   c. External contributions: please create the PR to the [contrib-integrations.md](contrib-integrations.md) document adding your work.
   d. Non-code contributions: please create the PR to the [contrib-content.md](contrib-content.md) document adding your work.
 4. A maintainer will label eligible PRs with the `#hacktoberfest-approved` label.
-5. Claim your prize by filling out the [following form]().
+5. Claim your prize by filling out the [following form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u).
 
 ## I have questions
 If you want to discuss a particular contribution, it's best to discuss in context at the  related Github Issue or PR.  
