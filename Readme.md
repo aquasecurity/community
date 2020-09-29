@@ -23,7 +23,7 @@ Please focus your attentions to the following projects:
 1. [kube-bench](https://github.com/aquasecurity/kube-bench)
 2. [Trivy](https://github.com/aquasecurity/Trivy)
 3. [Tracee](https://github.com/aquasecurity/tracee)
-4. [Startboard](https://github.com/aquasecurity/Starboard)
+4. [Starboard](https://github.com/aquasecurity/Starboard)
 5. [kube-hunter](https://github.com/aquasecurity/kube-hunter)
 
 ### External contributions
