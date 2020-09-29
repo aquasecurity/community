@@ -14,13 +14,12 @@ Criteria | Prize
 --- | ---
 1 contribution | Aqua Open Source sticker pack or Aqua Open Source face mask for your choosing
 4 contributions | Aqua Open Source sticker pack and Aqua Open Source face mask for your choosing and Aqua Hacktoberfest t-shirt
-
-Plus, the top 3 contributors will get an additional special gift from us!
+Top 3 contributors | special gift!
 
 ## How can I help?
 We are looking for meaningful contributions to our open source projects. For example: Adding new features, fixing bugs, improving documentation, integrating with other software, even creating content in other places that educates about our projects can count.
 
-Please focus you attentions to the following projects:
+Please focus your attentions to the following projects:
 1. [kube-bench](https://github.com/aquasecurity/kube-bench)
 2. [Trivy](https://github.com/aquasecurity/Trivy)
 3. [Tracee](https://github.com/aquasecurity/tracee)
