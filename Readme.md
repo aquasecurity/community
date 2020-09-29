@@ -12,6 +12,10 @@ All year long, everyone is welcome to join our communities and contribute to our
 
 Criteria | Prize
 --- | ---
+1 contribution | Aqua Open Source sticker pack or Aqua Open Source face mask for your choosing
+4 contributions | Aqua Open Source sticker pack and Aqua Open Source face mask for your choosing and Aqua Hacktoberfest t-shirt
+
+Plus, the top 3 contributors will get an additional special gift from us!
 
 ## How can I help?
 We are looking for meaningful contributions to our open source projects. For example: Adding new features, fixing bugs, improving documentation, integrating with other software, even creating content in other places that educates about our projects can count.
