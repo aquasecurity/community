@@ -2,26 +2,46 @@
 
 At Aqua, we believe open source is an essential part of our success and growth, and that by building our open source community and we help improve security across the cloud native ecosystem.
 
-
 ## What is Hacktoberfest?
 For some people October is a month of beer, and for others (like us) it’s hacking time! Hacktoberfest, named after the famous [German festival Oktoberfest](https://en.wikipedia.org/wiki/Oktoberfest), is a wonderful initiative that invites developers from around the world to participate and contribute to Open Source.  
-Many projects and companies participate in Hecktoberfest by encouraging contibutions in different ways, like rewarding you with prizes!  
-Besides individual campaigns, there's also the primary [Hacktoberfest campain](https://hacktoberfest.digitalocean.com/) where you can learn more about Hacktoberfest, which projects and companies participate, and also apply for more rewards.
+Many projects and companies participate in Hacktoberfest by encouraging contributions in different ways, like rewarding you with prizes!  
+Besides individual campaigns, there's also the primary [Hacktoberfest campaign](https://hacktoberfest.digitalocean.com/) where you can learn more about Hacktoberfest, which projects and companies participate, and also apply for more rewards.
 
 ## What is Aqua Security doing for Hacktoberfest?
-Everyone is welcome to join our communities and contribute to our projects all year long, but for contributions made during October 2020, we will reward you with prizes according to the following criteria:
+All year long, everyone is welcome to join our communities and contribute to our projects, but for contributions made during October 2020, we will reward you with prizes according to the following criteria:
 
 Criteria | Prize
 --- | ---
 
-
-## What qualifies as an eligible "contribution"?
+## How can I help?
 We are looking for meaningful contributions to our open source projects. For example: Adding new features, fixing bugs, improving documentation, integrating with other software, even creating content in other places that educates about our projects can count.
-For a full description of the qualification criteria, please read the [rules and conditions](rules.md).
 
-## How do I register?
-There's no need for pre-registration. Just find or suggest and issue that you would like to work on, and submit a Pull Request that links to this Issue. Our maintainers will review your PR and label eligible ones with the #hacktoberfest-approved label. Please review each project's contribution guidelines, and refer to the [rules and conditions](rules.md) for a detailed description of the contribution process.
+Please focus you attentions to the following projects:
+1. [kube-bench](https://github.com/aquasecurity/kube-bench)
+2. [Trivy](https://github.com/aquasecurity/Trivy)
+3. [Tracee](https://github.com/aquasecurity/tracee)
+4. [Startboard](https://github.com/aquasecurity/Starboard)
+
+### External contributions
+You can contribute to our projects in many ways besides Pull Requests to our projects. We recognize two types of so called External Contributions:
+
+**Out of repo**: Some contributions are about integrating our tools with other tools. Not always these integrations belong in the main repository of the project, sometimes it makes more sense to create another repository for these integration projects. For example: Integrating Trivy with a CI system, or integrating the Starboard report with some dashboard tool.
+
+**Non-code**: Sometimes Open Source contributions are not about code at all. For example, you could make a video explaining our tools, or write an article about how you used it, which creates value and helps the ecosystem just as much as writing code.
+
+## Contribution workflow
+
+1. Only contributions to the participating repos will be considered.
+2. Eligible contributions must start with a Github Issue describing the work item.
+  a. For non-code contributions, please create an issue in this repository ([Hacktoberfest](https://github.com/aquasecurity/Hacktoberfest)).
+3. Create a Pull Request with your contribution.
+  a. Read the contributions guidelines for the relevant project.
+  b. Link to the relevant Issue in the PR description.
+  c. External contributions: please create the PR to the [contrib-integrations.md](contrib-integrations.md) document adding your work.
+  d. Non-code contributions: please create the PR to the [contrib-content.md](contrib-content.md) document adding your work.
+4. A maintainer will label eligible PRs with the `#hacktoberfest-approved` label.
+5. Claim your prize by filling out the [following form]().
 
 ## I have questions
-If you want to discuss a particular task, the related Github Issue or PR is the best place to discuss it.
-For anything else regarding our HAcktoberfest campaign, you can engage in conversation with us using the [Discussions](http://) tab in this repository.
+If you want to discuss a particular contribution, it's best to discuss in context at the  related Github Issue or PR.  
+For anything else regarding our Hacktoberfest campaign, you can engage in conversation with us using the [Discussions](https://github.com/aquasecurity/Hacktoberfest/discussions) tab in this repository.
