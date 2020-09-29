@@ -1,5 +1,3 @@
-# Welcome to Aqua Security Hacktoberfest 2020!
-
 ![logo](./logo.png)
 
 At Aqua, we believe open source is an essential part of our success and growth, and that by building our open source community and we help improve security across the cloud native ecosystem.
