@@ -21,6 +21,7 @@ Please focus you attentions to the following projects:
 2. [Trivy](https://github.com/aquasecurity/Trivy)
 3. [Tracee](https://github.com/aquasecurity/tracee)
 4. [Startboard](https://github.com/aquasecurity/Starboard)
+5. [kube-hunter](https://github.com/aquasecurity/kube-hunter)
 
 ### External contributions
 You can contribute to our projects in many ways besides Pull Requests to our projects. We recognize two types of so called External Contributions:
@@ -29,11 +30,15 @@ You can contribute to our projects in many ways besides Pull Requests to our pro
 
 **Non-code**: Sometimes Open Source contributions are not about code at all. For example, you could make a video explaining our tools, or write an article about how you used it, which creates value and helps the ecosystem just as much as writing code.
 
+examples:
+1.
+
 ## Contribution workflow
 
 1. Only contributions to the participating repos will be considered.
 2. Eligible contributions must start with a Github Issue describing the work item.
   a. For non-code contributions, please create an issue in this repository ([Hacktoberfest](https://github.com/aquasecurity/Hacktoberfest)).
+  b. idea for a contribution that doesn match
 3. Create a Pull Request with your contribution.
   a. Read the contributions guidelines for the relevant project.
   b. Link to the relevant Issue in the PR description.
