@@ -38,14 +38,14 @@ You can contribute to our projects in many ways besides Pull Requests to our pro
 
 1. Only contributions to the participating repos will be considered.
 2. Eligible contributions must start with a Github Issue describing the work item.
-    a. For any contribution, first look for an existing Issue, and if needed open an Issue in the project's repo.
-    b. Issue can also be opened in this repository ([Hacktoberfest](https://github.com/aquasecurity/Hacktoberfest)) if they don't belong in the project's repo.
-    b. For non-code contributions, please create the issue in this repository ([Hacktoberfest](https://github.com/aquasecurity/Hacktoberfest)).
+    1. For any contribution, first look for an existing Issue, and if needed open an Issue in the project's repo.
+    2. Issue can also be opened in this repository ([Hacktoberfest](https://github.com/aquasecurity/Hacktoberfest)) if they don't belong in the project's repo.
+    3. For non-code contributions, please create the issue in this repository ([Hacktoberfest](https://github.com/aquasecurity/Hacktoberfest)).
 3. Create a Pull Request with your contribution.
-    a. Read the contributions guidelines for the relevant project.
-    b. Link to the relevant Issue in the PR description.
-    c. External contributions: please create the PR to the [contrib-integrations.md](contrib-integrations.md) document adding your work.
-    d. Non-code contributions: please create the PR to the [contrib-content.md](contrib-content.md) document adding your work.
+    1. Read the contributions guidelines for the relevant project.
+    2. Link to the relevant Issue in the PR description.
+    3. External contributions: please create the PR to the [contrib-integrations.md](contrib-integrations.md) document adding your work.
+    4. Non-code contributions: please create the PR to the [contrib-content.md](contrib-content.md) document adding your work.
 4. A maintainer will label eligible PRs with the `#hacktoberfest-approved` label.
 5. Claim your prize by filling out the [following form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u).
 
