@@ -13,7 +13,7 @@ All year long, everyone is welcome to join our communities and contribute to our
 Criteria | Prize
 --- | ---
 1 contribution | Aqua open source sticker pack or face mask for your choosing
-4 contributions | Aqua open source sticker pack or face mask for your choosing + Aqua Hacktoberfest t-shirt
+4 contributions | Aqua open source sticker pack or face mask for your choosing </br> + Aqua Hacktoberfest t-shirt
 Top 3 contributors | special gift!
 
 ## How can I help?
