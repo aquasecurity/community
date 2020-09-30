@@ -13,7 +13,7 @@ All year long, everyone is welcome to join our communities and contribute to our
 Criteria | Prize
 --- | ---
 1 contribution | Aqua open source sticker pack or face mask (your choice)
-4 contributions | Aqua open source sticker pack or face mask (your choice) </br> + Aqua Hacktoberfest t-shirt
+3 contributions | Aqua open source sticker pack or face mask (your choice) </br> + Aqua Hacktoberfest t-shirt
 
 In addition, we will send the recent [Kubernetes Security book](https://www.oreilly.com/library/view/kubernetes-security/9781492039075/) signed by [Liz Rice](https://www.lizrice.com/) to the 3 contributors who, in out judgement, made the best and most useful contributions.
 
