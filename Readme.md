@@ -65,4 +65,5 @@ To get these external contributions recognized for our Hacktoberfest swag prizes
 If you want to discuss a particular contribution, it's best to discuss in context at the  related Github Issue or PR.  
 For anything else regarding our Hacktoberfest campaign, you can engage in conversation with us using the [Discussions](https://github.com/aquasecurity/Hacktoberfest/discussions) tab in this repository. 
 
-![tshirt prize](shirt.jpg)
+## Good luck and happy Hacktoberfest!
+<img src="shirt.jpg" height="50%" width="50%">
