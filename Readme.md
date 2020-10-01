@@ -25,6 +25,8 @@ We are looking for meaningful contributions to our open source projects. For exa
 Please focus your attention on the following projects:
 1. [kube-bench](https://github.com/aquasecurity/kube-bench)
 2. [Trivy](https://github.com/aquasecurity/Trivy)
+    - [fanal](https://github.com/aquasecurity/fanal)
+    - [trivy-db](https://github.com/aquasecurity/trivy-db)
 3. [Tracee](https://github.com/aquasecurity/tracee)
 4. [Starboard](https://github.com/aquasecurity/Starboard)
 5. [kube-hunter](https://github.com/aquasecurity/kube-hunter)
