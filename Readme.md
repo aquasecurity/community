@@ -56,7 +56,7 @@ To get these external contributions recognized for our Hacktoberfest swag prizes
     2. Link to the relevant Issue in the PR description.
     3. External contributions: please create the PR to the [contrib-integrations.md](contrib-integrations.md) document adding your work.
     4. Non-code contributions: please create the PR to the [contrib-content.md](contrib-content.md) document adding your work.
-4. A maintainer will label eligible PRs with the `#hacktoberfest-approved` label. 
+4. A maintainer will label eligible PRs with the `#hacktoberfest-accepted` label. 
     1. PRs that don't correspond to an existing Issue are not eligible. 
     2. PRs that don't relate to the participating projects are unlikely to be approved, but please feel free to raise ideas here in the [Discussions](https://github.com/aquasecurity/Hacktoberfest/discussions) tab. 
     2. PRs that add meaningful improvements to docs are great! But swag-hunters please note: PRs that make only superficial changes will not be eligible. For example: simply adding or removing punctuation is not eligible, but adding a missing heading into a table of contents or fixing a broken link is eligible. In all cases, there needs to be a corresponding issue for your PR. 
