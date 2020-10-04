@@ -28,6 +28,10 @@ Please focus your attention on the following projects:
 2. [Trivy](https://github.com/aquasecurity/Trivy)
     - [fanal](https://github.com/aquasecurity/fanal)
     - [trivy-db](https://github.com/aquasecurity/trivy-db)
+    - [vuln-list-update](https://github.com/aquasecurity/vuln-list-update)
+    - [trivy-action](https://github.com/aquasecurity/trivy-action)
+    - [trivy-vscode-extension](https://github.com/aquasecurity/trivy-vscode-extension)
+    
 3. [Tracee](https://github.com/aquasecurity/tracee)
 4. [Starboard](https://github.com/aquasecurity/Starboard)
 5. [kube-hunter](https://github.com/aquasecurity/kube-hunter)
