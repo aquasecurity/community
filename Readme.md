@@ -1,3 +1,7 @@
+<a href="docs/contributing.md" alt="Hacktoberfest"><img src="https://badgen.net/badge/hacktoberfest/friendly/pink" /></a>
+ [![Aquasecurity website](https://img.shields.io/badge/docs-aquasec-blue.svg)](https://www.aquasec.com/)
+ [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+ 
 ![logo](./logo.png)
 
 At Aqua, we believe open source is an essential part of our success and growth, and that by building our open source community we help improve security across the cloud native ecosystem.
