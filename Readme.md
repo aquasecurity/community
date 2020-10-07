@@ -1,4 +1,4 @@
-<a href="docs/contributing.md" alt="Hacktoberfest"><img src="https://badgen.net/badge/hacktoberfest/friendly/pink" /></a>
+<a href="https://hacktoberfest.digitalocean.com/" alt="Hacktoberfest"><img src="https://badgen.net/badge/hacktoberfest/friendly/pink" /></a>
  [![Aquasecurity website](https://img.shields.io/badge/docs-aquasec-blue.svg)](https://www.aquasec.com/)
  [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
  
