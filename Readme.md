@@ -7,6 +7,9 @@ For some people October is a month of beer, and for others (like us) it’s hack
 
 Many projects and companies participate in Hacktoberfest by encouraging contributions in different ways, like rewarding you with prizes! Take a look at the [Hacktoberfest campaign](https://hacktoberfest.digitalocean.com/) where you can learn more about Hacktoberfest and the participating projects and companies, and apply for more rewards.
 
+### Getting Started
+You can start out by signing up here at the official website of [Hacktoberfest2020](https://hacktoberfest.digitalocean.com/). Simply login into your [Github](https://github.com/login) account and start by forking this repository and contributing by adding something meaningful. Then simply click on the Pull Request and wait for us to accept your contribution. Happy PR-ing! 
+
 ## What is Aqua Security doing for Hacktoberfest?
 All year long, everyone is welcome to join our communities and contribute to our projects, but for contributions made during October 2020, we will reward you with prizes according to the following criteria:
 
