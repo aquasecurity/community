@@ -3,9 +3,15 @@
 At Aqua, we believe open source is an essential part of our success and growth, and that by building our open source community we help improve security across the cloud native ecosystem.
 
 ## What is Hacktoberfest?
-For some people October is a month of beer, and for others (like us) it’s hacking time! Hacktoberfest, named after the famous [German festival Oktoberfest](https://en.wikipedia.org/wiki/Oktoberfest), is a wonderful initiative that invites developers from around the world to participate and contribute to Open Source.  
+For some people October is a month of beer, and for others (like us) it’s hacking time! Hacktoberfest, named after the famous [German festival Oktoberfest](https://en.wikipedia.org/wiki/Oktoberfest), is a wonderful initiative that invites developers from around the world to participate and contribute to Open Source.
+
+Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.
 
 Many projects and companies participate in Hacktoberfest by encouraging contributions in different ways, like rewarding you with prizes! Take a look at the [Hacktoberfest campaign](https://hacktoberfest.digitalocean.com/) where you can learn more about Hacktoberfest and the participating projects and companies, and apply for more rewards.
+
+1) Hacktoberfest is open to everyone in our global community!
+2) Four-Five quality pull requests must be submitted to public GitHub repositories.
+3) You can sign up anytime between October 1 and October 31.
 
 ## What is Aqua Security doing for Hacktoberfest?
 All year long, everyone is welcome to join our communities and contribute to our projects, but for contributions made during October 2020, we will reward you with prizes according to the following criteria:
