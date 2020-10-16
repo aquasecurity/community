@@ -1,5 +1,5 @@
 ---
-name: Integration contribution
+name: Integration contribution:
 about: Use this issue to submit an integration contribution for Hacktoberfest
 title: ''
 labels: contrib-integration
