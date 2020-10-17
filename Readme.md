@@ -7,6 +7,12 @@ For some people October is a month of beer, and for others (like us) it’s hack
 
 Many projects and companies participate in Hacktoberfest by encouraging contributions in different ways, like rewarding you with prizes! Take a look at the [Hacktoberfest campaign](https://hacktoberfest.digitalocean.com/) where you can learn more about Hacktoberfest and the participating projects and companies, and apply for more rewards.
 
+Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
+
+1. Hacktoberfest is a celebration open to everyone in our global community.
+2. Pull requests can be made in participating GitHub-hosted repositories/projects, classified with the Hacktoberfest topic.
+3. You can sign up anytime between October 1 and October 31.
+
 ## What is Aqua Security doing for Hacktoberfest?
 All year long, everyone is welcome to join our communities and contribute to our projects, but for contributions made during October 2020, we will reward you with prizes according to the following criteria:
 
