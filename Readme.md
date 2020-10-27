@@ -3,7 +3,7 @@
 At Aqua, we believe open source is an essential part of our success and growth, and that by building our open source community we help improve security across the cloud native ecosystem.
 
 ## What is Hacktoberfest?
-For some people October is a month of beer, and for others (like us) it’s hacking time! Hacktoberfest, named after the famous [German festival Oktoberfest](https://en.wikipedia.org/wiki/Oktoberfest), is a wonderful initiative that invites developers from around the world to participate and contribute to Open Source.  
+For some people October is a month of beer, and for others (like us) it’s hacking time! Basically its a month where programmers work together and helps each other! Hacktoberfest, named after the famous [German festival Oktoberfest](https://en.wikipedia.org/wiki/Oktoberfest), is a wonderful initiative that invites developers from around the world to participate and contribute to Open Source.  
 
 Many projects and companies participate in Hacktoberfest by encouraging contributions in different ways, like rewarding you with prizes! Take a look at the [Hacktoberfest campaign](https://hacktoberfest.digitalocean.com/) where you can learn more about Hacktoberfest and the participating projects and companies, and apply for more rewards.
 
@@ -66,7 +66,7 @@ To get these external contributions recognized for our Hacktoberfest swag prizes
     2. PRs that add meaningful improvements to docs are great! But swag-hunters please note: PRs that make only superficial changes will not be eligible. For example: simply adding or removing punctuation is not eligible, but adding a missing heading into a table of contents or fixing a broken link is eligible. In all cases, there needs to be a corresponding issue for your PR. 
 5. Claim your prize by filling out [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u).
 
-## I have questions
+## I have questions(Feel free to question us!)
 If you want to discuss a particular contribution, it's best to discuss in context at the  related Github Issue or PR.  
 For anything else regarding our Hacktoberfest campaign, you can engage in conversation with us using the [Discussions](https://github.com/aquasecurity/Hacktoberfest/discussions) tab in this repository. 
 
