@@ -54,7 +54,7 @@ To get these external contributions recognized for our Hacktoberfest swag prizes
 1. Only contributions related to the participating projects listed above will be considered.
 2. Eligible contributions **must start with a Github Issue describing the work item**.
     1. For any contribution, first look for an existing Issue. If it doesn't already exist, open a new Issue in the project's repo. 
-    2. For external contributions, please create an issue in this repository ([Hacktoberfest](https://github.com/aquasecurity/Hacktoberfest)) describing what you're planning to do. 
+    2. For external contributions, please create an issue in this Repository ([Hacktoberfest](https://github.com/aquasecurity/Hacktoberfest)) describing what you're planning to do. 
 3. Create a Pull Request with your contribution.
     1. Read the contributions guidelines for the relevant project.
     2. Link to the relevant Issue in the PR description.
