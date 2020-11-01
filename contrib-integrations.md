@@ -6,3 +6,4 @@ GitHub Issue (repo#id) | [Related Aqua project](Readme.md#how-can-i-help) | Shor
 [trivy#685](https://github.com/aquasecurity/trivy/issues/685) | trivy | Packaged trivy for nix and nixOS | <https://github.com/NixOS/nixpkgs/pull/99407>
 [starboard#199](https://github.com/aquasecurity/starboard/issues/199) | starboard | Packaged starboard for nix and nixOS | <https://github.com/NixOS/nixpkgs/pull/99412>
 [Hacktoberfest#25](https://github.com/aquasecurity/Hacktoberfest/issues/25)|Trivy|Sending Trivy Information to Apache Superset (PostgreSQL)|https://github.com/AlfredoPardo/python-for-devsecops/tree/main/centralizing-information|
+[Hacktoberfest#26](https://github.com/aquasecurity/Hacktoberfest/issues/26)|Kube-bench|Submitting Kube-Bench Information to Apache Superset (PostgreSQL)|https://github.com/AlfredoPardo/devsecops/blob/master/kubernetes-configurations/kube-bench-to-superset.py|
