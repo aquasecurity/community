@@ -1,0 +1,288 @@
+[
+  [
+    {
+      "author": "JeffResc",
+      "created": "2020-10-18T21:34:04Z",
+      "link": "https://github.com/aquasecurity/kube-hunter/pull/389"
+    }
+  ],
+  [
+    {
+      "author": "RDxR10",
+      "created": "2020-10-29T14:02:54Z",
+      "link": "https://github.com/aquasecurity/kube-hunter/pull/398"
+    },
+    {
+      "author": "RDxR10",
+      "created": "2020-10-29T13:55:20Z",
+      "link": "https://github.com/aquasecurity/kube-hunter/pull/397"
+    }
+  ],
+  [
+    {
+      "author": "SinithH",
+      "created": "2020-11-08T04:02:53Z",
+      "link": "https://github.com/aquasecurity/kube-hunter/pull/403"
+    }
+  ],
+  [
+    {
+      "author": "VPEvents",
+      "created": "2020-10-07T02:16:12Z",
+      "link": "https://github.com/aquasecurity/tracee/pull/246"
+    }
+  ],
+  [
+    {
+      "author": "Wicked7000",
+      "created": "2020-10-23T23:01:06Z",
+      "link": "https://github.com/aquasecurity/kube-bench/pull/755"
+    },
+    {
+      "author": "Wicked7000",
+      "created": "2020-10-21T19:11:05Z",
+      "link": "https://github.com/aquasecurity/kube-bench/pull/751"
+    },
+    {
+      "author": "Wicked7000",
+      "created": "2020-10-12T00:37:39Z",
+      "link": "https://github.com/aquasecurity/kube-bench/pull/736"
+    },
+    {
+      "author": "Wicked7000",
+      "created": "2020-10-10T17:01:05Z",
+      "link": "https://github.com/aquasecurity/kube-bench/pull/734"
+    }
+  ],
+  [
+    {
+      "author": "alex-slynko",
+      "created": "2020-10-04T21:43:29Z",
+      "link": "https://github.com/aquasecurity/kube-bench/pull/720"
+    }
+  ],
+  [
+    {
+      "author": "anushkrishnav",
+      "created": "2020-10-06T02:11:10Z",
+      "link": "https://github.com/aquasecurity/kube-hunter/pull/382"
+    }
+  ],
+  [
+    {
+      "author": "bjrara",
+      "created": "2020-10-14T04:41:43Z",
+      "link": "https://github.com/aquasecurity/kube-bench/pull/742"
+    },
+    {
+      "author": "bjrara",
+      "created": "2020-10-12T09:26:12Z",
+      "link": "https://github.com/aquasecurity/kube-bench/pull/739"
+    },
+    {
+      "author": "bjrara",
+      "created": "2020-10-12T09:06:10Z",
+      "link": "https://github.com/aquasecurity/kube-bench/pull/738"
+    }
+  ],
+  [
+    {
+      "author": "borkod",
+      "created": "2020-10-10T17:06:45Z",
+      "link": "https://github.com/aquasecurity/kube-bench/pull/735"
+    },
+    {
+      "author": "borkod",
+      "created": "2020-10-10T16:48:09Z",
+      "link": "https://github.com/aquasecurity/kube-bench/pull/733"
+    },
+    {
+      "author": "borkod",
+      "created": "2020-10-04T02:58:55Z",
+      "link": "https://github.com/aquasecurity/kube-bench/pull/716"
+    }
+  ],
+  [
+    {
+      "author": "consideRatio",
+      "created": "2020-10-14T18:29:16Z",
+      "link": "https://github.com/aquasecurity/starboard/pull/204"
+    }
+  ],
+  [
+    {
+      "author": "czunker",
+      "created": "2020-10-29T10:06:33Z",
+      "link": "https://github.com/aquasecurity/kube-bench/pull/759"
+    }
+  ],
+  [
+    {
+      "author": "distortedsignal",
+      "created": "2020-10-07T17:26:47Z",
+      "link": "https://github.com/aquasecurity/kube-bench/pull/727"
+    }
+  ],
+  [
+    {
+      "author": "ducksecops",
+      "created": "2020-10-10T22:51:23Z",
+      "link": "https://github.com/aquasecurity/tracee/pull/248"
+    }
+  ],
+  [
+    {
+      "author": "echobash",
+      "created": "2020-10-15T17:26:55Z",
+      "link": "https://github.com/aquasecurity/tracee/pull/262"
+    }
+  ],
+  [
+    {
+      "author": "hannesfant",
+      "created": "2020-10-06T17:11:06Z",
+      "link": "https://github.com/aquasecurity/tracee/pull/245"
+    }
+  ],
+  [
+    {
+      "author": "hugovk",
+      "created": "2020-10-29T17:31:03Z",
+      "link": "https://github.com/aquasecurity/kube-hunter/pull/401"
+    },
+    {
+      "author": "hugovk",
+      "created": "2020-10-29T17:29:11Z",
+      "link": "https://github.com/aquasecurity/kube-hunter/pull/400"
+    }
+  ],
+  [
+    {
+      "author": "hypnoglow",
+      "created": "2020-10-25T16:54:16Z",
+      "link": "https://github.com/aquasecurity/starboard/pull/229"
+    },
+    {
+      "author": "hypnoglow",
+      "created": "2020-10-25T15:52:16Z",
+      "link": "https://github.com/aquasecurity/starboard/pull/228"
+    },
+    {
+      "author": "hypnoglow",
+      "created": "2020-10-10T22:16:10Z",
+      "link": "https://github.com/aquasecurity/starboard/pull/193"
+    }
+  ],
+  [
+    {
+      "author": "milindchawre",
+      "created": "2020-10-12T17:53:25Z",
+      "link": "https://github.com/aquasecurity/kube-hunter/pull/387"
+    }
+  ],
+  [
+    {
+      "author": "mozillazg",
+      "created": "2020-10-08T13:47:58Z",
+      "link": "https://github.com/aquasecurity/kube-bench/pull/728"
+    },
+    {
+      "author": "mozillazg",
+      "created": "2020-10-04T03:14:59Z",
+      "link": "https://github.com/aquasecurity/starboard/pull/173"
+    },
+    {
+      "author": "mozillazg",
+      "created": "2020-10-04T02:46:41Z",
+      "link": "https://github.com/aquasecurity/starboard/pull/172"
+    },
+    {
+      "author": "mozillazg",
+      "created": "2020-10-24T04:57:42Z",
+      "link": "https://github.com/aquasecurity/trivy-db/pull/84"
+    }
+  ],
+  [
+    {
+      "author": "neha-viswanathan",
+      "created": "2020-10-15T07:43:40Z",
+      "link": "https://github.com/aquasecurity/vuln-list-update/pull/55"
+    },
+    {
+      "author": "neha-viswanathan",
+      "created": "2020-10-14T05:40:10Z",
+      "link": "https://github.com/aquasecurity/vuln-list-update/pull/50"
+    },
+    {
+      "author": "neha-viswanathan",
+      "created": "2020-10-07T00:09:26Z",
+      "link": "https://github.com/aquasecurity/trivy-db/pull/77"
+    }
+  ],
+  [
+    {
+      "author": "pathtofile",
+      "created": "2020-10-21T10:54:16Z",
+      "link": "https://github.com/aquasecurity/tracee/pull/268"
+    }
+  ],
+  [
+    {
+      "author": "reegnz",
+      "created": "2020-10-06T12:31:26Z",
+      "link": "https://github.com/aquasecurity/kube-hunter/pull/385"
+    }
+  ],
+  [
+    {
+      "author": "sam-robson",
+      "created": "2020-10-06T12:20:33Z",
+      "link": "https://github.com/aquasecurity/starboard/pull/182"
+    }
+  ],
+  [
+    {
+      "author": "shaunmclernon",
+      "created": "2020-10-01T00:26:26Z",
+      "link": "https://github.com/aquasecurity/starboard/pull/167"
+    }
+  ],
+  [
+    {
+      "author": "siddharths2710",
+      "created": "2020-10-13T19:17:37Z",
+      "link": "https://github.com/aquasecurity/tracee/pull/256"
+    }
+  ],
+  [
+    {
+      "author": "sudiptog81",
+      "created": "2020-10-14T07:14:59Z",
+      "link": "https://github.com/aquasecurity/tracee/pull/259"
+    },
+    {
+      "author": "sudiptog81",
+      "created": "2020-10-14T14:24:47Z",
+      "link": "https://github.com/aquasecurity/vuln-list-update/pull/52"
+    },
+    {
+      "author": "sudiptog81",
+      "created": "2020-10-14T14:39:19Z",
+      "link": "https://github.com/aquasecurity/trivy-db/pull/82"
+    }
+  ],
+  [
+    {
+      "author": "sumitkharche",
+      "created": "2020-10-04T10:32:04Z",
+      "link": "https://github.com/aquasecurity/tracee/pull/236"
+    }
+  ],
+  [
+    {
+      "author": "xmonish",
+      "created": "2020-10-06T09:36:42Z",
+      "link": "https://github.com/aquasecurity/kube-hunter/pull/383"
+    }
+  ]
+]
