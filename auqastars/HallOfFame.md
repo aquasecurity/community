@@ -13,7 +13,7 @@ We would like to thank the following people, among many other contributors, for 
 - [Shubham Palriwala](https://github.com/shubhampalriwala)
 - [Juan Antonio Osorio](https://github.com/JAORMX)
 
-If you are not mentioned on the list and you have been a long-time contributor to our OSS projects, then please do reach out on [Slack to Anais Urlichs]().
+If you are not mentioned on the list and you have been a long-time contributor to our OSS projects, then please do reach out on [Slack to Anais Urlichs](https://slack.aquasec.com).
 
 ## 🌟AquaStars🌟
 
