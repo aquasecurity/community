@@ -15,12 +15,12 @@ The Code of Conduct has been adopted from
 
 [**Tracee**](https://github.com/aquasecurity/tracee) is a Runtime Security and forensics tool for Linux. It uses Linux eBPF technology to trace your system and applications at runtime, and analyzes collected events in order to detect suspicious behavioral patterns. It is usually delivered as a docker container, but there are other ways you can use it (even create your own customized tracee container).
 
-## How you can get involved
+#### **How you can get involved**
 
 There are multiple way to get involed. The [Trivy documentation](https://aquasecurity.github.io/trivy/latest/community/contribute/pr/) describes how to create your first PR and our repositories include [`good first issue`](https://github.com/aquasecurity/trivy/labels/good%20first%20issue).
 Additionally, we love content contributions, such as blog posts on your channel.
 
-## Where do conversations take place
+#### **Where do conversations take place**
 
 - GitHub Discussions: New releases, design and architecture posts, questions, etc.
 - Issue: Bug, feature requests 
@@ -28,11 +28,22 @@ Additionally, we love content contributions, such as blog posts on your channel.
 
 Let us know if and how you are using the Aqua Open Source projects!
 
-## List of additional Resources
+#### **List of additional Resources**
 
 - [Aqua Open Source YouTube Channel](https://www.youtube.com/c/AquaSecurityOpenSource)
+- [Aqua Open Source Slack Channel: new content, questions](slack.aquasec.com)
 
-## Our Contributors
+## 🌟Aqua Stars🌟
+
+We will recognize outstanding contributions as part of our AquaStars program.
+
+You can find out more [HERE](aquastars/overview.md)
+
+### Contributor Highlights
+
+🏛️ [Hall of Fame](./auqastars/HallOfFame.md)
+
+### Our Contributors
 
 #### Trivy
 <a href="https://github.com/aquasecurity/trivy/graphs/contributors">
