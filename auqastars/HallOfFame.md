@@ -5,7 +5,7 @@ AquaStars has been launched in Oct 2022. However, we received lots of amazing co
 We would like to thank the following people, among many other contributors, for their efforts and contributions to the Aqua open source ecosystem:
 - [Massimiliano Giovagnoli](https://twitter.com/maxgio92)
 - [Kemal Akkoyun](https://github.com/kakkoyun/)
-- [Alessio Gregi](https://twitter.com/alegrey91)
+- [Alessio Greggi](https://twitter.com/alegrey91)
 - [Engin Diri](https://twitter.com/_ediri)
 - [Batuhan](https://twitter.com/developerguyba)
 - [Reed Loden](https://github.com/reedloden)
