@@ -8,8 +8,6 @@ Itay Shakury | Open Source lead | [itaysk](https://github.com/itaysk) | [@itaysk
 Geyslan Gregorio | Tracee | [geyslan](https://github.com/geyslan) | [@glangreg](https://twitter.com/glangreg) | 
 Grant Seltzer | Tracee | [grantseltzer](https://github.com/grantseltzer) | [@GrantSeltzer](https://twitter.com/GrantSeltzer) | <https://grant.pizza>
 Jose Donizetti | Tracee, Trivy | [josedonizetti](https://github.com/josedonizetti) | [@josedonizetti](https://twitter.com/josedonizetti) |
-Liam Galvin | Trivy | [liamg](https://github.com/liamg) | [@liam_galvin](https://twitter.com/liam_galvin) | <https://lia.mg>
-Owen Rumney | Trivy | [owenrumney](https://github.com/owenrumney) | [@owenrum](https://twitter.com/owenrum) | <https://owenrumney.co.uk>
 Rafael David Rinoco | Tracee | [rafaeldtinoco](https://github.com/rafaeldtinoco) | [@rafaeldtinoco](https://twitter.com/rafaeldtinoco) | 
 Simar Singh | Postee, Trivy | [simar7](https://github.com/simar7) | [@simarpreet7](https://twitter.com/simarpreet7) |
 Teppei Fukuda | Trivy | [knqyf263](https://github.com/knqyf263) | [@knqyf263](https://twitter.com/knqyf263) | 
