@@ -35,11 +35,7 @@ The documentation of Trivy and Tracee does have "contributing" sections for help
 - Newsletter: We post a monthly newsletter covering news and updates about our open source projects. The update is originally posted on [@itaysk](https://twitter.com/itaysk)'s Twitter, and you can also [subscribe to receive it in email](https://info.aquasec.com/open-source-newsletter).
 - Twitter: Our team is on Twitter. Follow us to get a more personal connection and more insights about our work. Here's a [list of maintainers and Twitter handles](theteam.md).
 
-## 🌟Aqua Stars🌟
-
-We will recognize and reward outstanding contributions as part of our Aqua Stars program. Find out more [here](aquastars/Readme.md).
-
-### Contributor Highlights
+## Contributor Highlights
 
 🏛️ [Hall of Fame](./auqastars/HallOfFame.md)
 
