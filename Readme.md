@@ -7,37 +7,37 @@ Please make sure that you [follow the Code of Conduct](./CODE_OF_CONDUCT.md) in 
 The Code of Conduct has been adopted from 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)  
 
-## Aqua Open Source
+## Our main projects
 
-#### Our main projects
+[**Trivy**](https://github.com/aquasecurity/trivy) is a comprehensive and versatile security scanner. Trivy supports different scanners (things is can find) as well as targets (things is can scan).
 
-[**Trivy**](https://github.com/aquasecurity/trivy) (tri pronounced like trigger, vy pronounced like envy) is a comprehensive security scanner. It is reliable, fast, extremely easy to use, and it works wherever you need it.
+[**Tracee**](https://github.com/aquasecurity/tracee) is a runtime security and forensics tool. It uses Linux eBPF technology to trace your system and give you insight into it's behavior.
 
-[**Tracee**](https://github.com/aquasecurity/tracee) is a Runtime Security and forensics tool for Linux. It uses Linux eBPF technology to trace your system and applications at runtime, and analyzes collected events in order to detect suspicious behavioral patterns. It is usually delivered as a docker container, but there are other ways you can use it (even create your own customized tracee container).
+While these are the top-level initiatives we have, contribution might be needed in supporting repositories. For example in `trivy-db` for Trivy or in `libbpfgo` for Tracee.
 
-#### **How you can get involved**
+## How you can get involved
 
-There are multiple way to get involed. The [Trivy documentation](https://aquasecurity.github.io/trivy/latest/community/contribute/pr/) describes how to create your first PR and our repositories include [`good first issue`](https://github.com/aquasecurity/trivy/labels/good%20first%20issue).
-Additionally, we love content contributions, such as blog posts on your channel.
+A good way to start is to first familiarize yourself with the project, take some time to assimilate within the community, and engage in issues and discussions. Contributions might be in the form of:
 
-#### **Where do conversations take place**
+- Engaging with the community, asking ans answering questions, testing and providing feedback.
+- Creating content, for example, improving documentation, creating tutorials, speaking and advocating about the projects elsewhere.
+- Contributing code, fixing bugs and creating new features.
 
-- GitHub Discussions: New releases, design and architecture posts, questions, etc.
-- Issue: Bug, feature requests 
-- [Aqua Open Source Slack Channel: new content, questions](slack.aquasec.com)
+When you want to make a contribution, start by searching for existing issues or discussions which need help (look for the `good-first-issue` and `help-wanted` label), or create an issue if needed.  
+The documentation of Trivy and Tracee does have "contributing" sections for helping you get started with either project specifically.
 
-Let us know if and how you are using the Aqua Open Source projects!
+## Discuss and learn more
 
-#### **List of additional Resources**
-
-- [Aqua Open Source YouTube Channel](https://www.youtube.com/c/AquaSecurityOpenSource)
-- [Aqua Open Source Slack Channel: new content, questions](slack.aquasec.com)
+- GitHub Discussions: Ask for help and support, Discuss code development and ideation, read announcements. In any of the major repositories, you'll find a "Discussions" tab.
+- GitHub Issues: Report Bugs, request features.
+- Aqua Open Source Slack Channel: General discussion, engage with the community and maintainers, any topic you're unsure if or where to post. [Aqua OSS Slack](https://slack.aquasec.com).
+- Aqua Open Source YouTube Channel: We post regularly short videos covering feature highlights and tutorials. Please like/sub/comment [Aqua OSS YouTube](https://www.youtube.com/c/AquaSecurityOpenSource).
+- Newsletter: We post a monthly newsletter covering news and updates about our open source projects. The update is originally posted on [@itaysk](https://twitter.com/itaysk)'s Twitter, and you can also [subscribe to receive it in email](https://info.aquasec.com/open-source-newsletter).
+- Twitter: Our team is on Twitter. Follow us to get a more personal connection and more insights about our work. Here's a [list of maintainers and Twitter handles](theteam.md).
 
 ## 🌟Aqua Stars🌟
 
-We will recognize outstanding contributions as part of our AquaStars program.
-
-You can find out more [HERE](aquastars/overview.md)
+We will recognize and reward outstanding contributions as part of our Aqua Stars program. Find out more [here](aquastars/Readme.md).
 
 ### Contributor Highlights
 
