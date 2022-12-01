@@ -15,6 +15,12 @@ The Code of Conduct has been adopted from
 
 While these are the top-level initiatives we have, contribution might be needed in supporting repositories. For example in `trivy-db` for Trivy or in `libbpfgo` for Tracee.
 
+### Office Hours
+
+We are hosting monthly office hours. You can find more details under the following links:
+
+* [Trivy](./office-hours/trivy-office-hours.md)
+
 ## How you can get involved
 
 A good way to start is to first familiarize yourself with the project, take some time to assimilate within the community, and engage in issues and discussions. Contributions might be in the form of:
