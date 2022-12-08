@@ -6,7 +6,6 @@ Anais Urlichs | Developer Advocate | [AnaisUrlichs](https://github.com/AnaisUrli
 Chen Keinan | Trivy | [chen-keinan](https://github.com/chen-keinan) | [@ChenKeinan](https://twitter.com/ChenKeinan) | 
 Itay Shakury | Open Source lead | [itaysk](https://github.com/itaysk) | [@itaysk](https://twitter.com/itaysk) | <https://blog.itaysk.com>
 Geyslan Gregorio | Tracee | [geyslan](https://github.com/geyslan) | [@glangreg](https://twitter.com/glangreg) | 
-Grant Seltzer | Tracee | [grantseltzer](https://github.com/grantseltzer) | [@GrantSeltzer](https://twitter.com/GrantSeltzer) | <https://grant.pizza>
 Jose Donizetti | Tracee, Trivy | [josedonizetti](https://github.com/josedonizetti) | [@josedonizetti](https://twitter.com/josedonizetti) |
 Rafael David Rinoco | Tracee | [rafaeldtinoco](https://github.com/rafaeldtinoco) | [@rafaeldtinoco](https://twitter.com/rafaeldtinoco) | 
 Simar Singh | Postee, Trivy | [simar7](https://github.com/simar7) | [@simarpreet7](https://twitter.com/simarpreet7) |
