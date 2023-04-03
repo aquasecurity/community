@@ -15,3 +15,4 @@ We would like to thank the following people, among many other contributors, for 
 - [Georgi Lazarov]()
 - [Shubham Palriwala](https://github.com/shubhampalriwala)
 - [Juan Antonio Osorio](https://github.com/JAORMX)
+- [Bret Fisher](@BretFisher)
