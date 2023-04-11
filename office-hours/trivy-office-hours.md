@@ -4,16 +4,25 @@ Trivy office hours is a monthly meeting that lets us meet and discuss. Meetings 
 
 ## Join
 
-Please register to attend using the signup form: https://aquasec.zoom.us/meeting/register/tJApdOGprjwtH9MypxCF2RaVAaOVWpOjwXuz 
-Once registered, you'll get an invite to all of our future meetings so you only have to signup once. The invite will include a Zoom link to join the calls.
+**When**?
+On the second Wednesday of each month. Here are the next dates:
+May 10th
+June 14th
+July 12th
+August 9th
+September 13th
+October 11th
 
-Please note that every meeting is recorded and posted on the [Aqua Open Source YouTube channel](https://www.youtube.com/c/AquaSecurityOpenSource).
-Also, this meeting is under our [Code of Conduct](../CODE_OF_CONDUCT.md), so please be respectful to eachother.
+**How can you join**?
+Here is the Zoom Link to the Trivy Office Hours: https://aquasec.zoom.us/j/94438107757
+Passcode: 559256
+The Google Calendar Invite can be found here: https://zoom.us/meeting/tJApdOGprjwtH9MypxCF2RaVAaOVWpOjwXuz/calendar/google/add
+
+No sign-up is required besides a free Zoom account.
 
 ## Agenda
 
-Before each meeting we post a new GitHub Discussion in the Trivy repository.
-There, you will be able to propose topics.
+Every month, we will showcase the Trivy features from the latest Trivy release. Additionally, you can propose agenda items at the beginning of every call. 
 
 Topics may include:
 * Specific Questions about the roadmap of Trivy or related projects
