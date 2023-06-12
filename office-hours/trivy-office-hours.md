@@ -14,7 +14,7 @@ September 13th
 October 11th
 
 **How can you join**?
-Here is the Zoom Link to the Trivy Office Hours: https://aquasec.zoom.us/j/94438107757
+Here is the Zoom Link to the Trivy Office Hours: [https://aquasec.zoom.us/j/94438107757](https://aquasec.zoom.us/j/94438107757?pwd=KzFYRkJ3aTlydmhncE5zUWtDemhndz09)
 Passcode: 559256
 The Google Calendar Invite can be found here: https://zoom.us/meeting/tJApdOGprjwtH9MypxCF2RaVAaOVWpOjwXuz/calendar/google/add
 
